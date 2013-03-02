@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='django-freebase',
-    version='0.1.0',
+    version='0.1dev',
     author='Jonathan Hensley',
     author_email='jhensley2@gmail.com',
     packages=['freebase'],
