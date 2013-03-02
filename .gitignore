@@ -6,7 +6,7 @@
 # Packages
 *.egg
 *.egg-info
-MAINIFEST
+MANIFEST
 dist
 build
 eggs
